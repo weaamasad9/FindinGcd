@@ -63,7 +63,4 @@ print(sym_not_coprime([6, 12, 18]))   # Output: True
 
 Ensure you have Python 3.x installed on your system. No additional libraries are required to run this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
